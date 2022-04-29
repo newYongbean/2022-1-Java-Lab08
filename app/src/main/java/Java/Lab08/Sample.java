@@ -3,7 +3,7 @@ package Java.Lab08;
 public class Sample {
 	
 	public Sample() {
-		System.out.println("Sample message");
+		System.out.println("Sample message.");
 	}
 
 	public static void main(String[] args) {
